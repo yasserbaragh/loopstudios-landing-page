@@ -1,2 +1,2 @@
-# ways-landing-page
+# loopstudios-landing-page
 new project
